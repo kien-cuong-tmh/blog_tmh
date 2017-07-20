@@ -17,7 +17,8 @@
 /.project
 /.buildpath
 /.settings/
-
+/app/webroot/bower_components/
+/node_modules/
 # OS generated files #
 ######################
 .DS_Store
