@@ -1,0 +1,20 @@
+{
+  "name": "blog_tmh",
+  "homepage": "https://github.com/kien-cuong-tmh/blog_tmh",
+  "authors": [
+    "Trung Kien <kienbt@tmh-techlab.vn>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
